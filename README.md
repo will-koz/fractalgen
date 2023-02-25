@@ -30,3 +30,5 @@ Here are some more examples:
 ![Space Filling Curve II](examples/snake.png)
 
 ![Perpendicular 7x3](examples/perpendicular73.png)
+
+![Hook](examples/hook.png)
