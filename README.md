@@ -32,3 +32,5 @@ Here are some more examples:
 ![Perpendicular 7x3](examples/perpendicular73.png)
 
 ![Hook](examples/hook.png)
+
+![Menger Sponge](examples/menger.png)

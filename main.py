@@ -2,12 +2,12 @@
 
 from PIL import Image, ImageDraw
 
-import hook as mod
+import menger as mod
 
-size = (520, 520)
+size = (800, 800)
 
-initial = [(4, 256), (516, 256)]
-depth = 5
+initial = [(35, 400), (764, 400)]
+depth = 6
 
 output = Image.new("HSV", size)
 doutput = ImageDraw.Draw(output)
