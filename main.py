@@ -2,11 +2,11 @@
 
 from PIL import Image, ImageDraw
 
-import menger as mod
+import packed as mod
 
-size = (800, 800)
+size = (800, 1000)
 
-initial = [(35, 400), (764, 400)]
+initial = [(35, 500), (764, 500)]
 depth = 6
 
 output = Image.new("HSV", size)
