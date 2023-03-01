@@ -34,3 +34,5 @@ Here are some more examples:
 ![Hook](examples/hook.png)
 
 ![Menger Sponge](examples/menger.png)
+
+![Packed Fractal](examples/packed.png)
