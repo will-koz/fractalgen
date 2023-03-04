@@ -2,12 +2,12 @@
 
 from PIL import Image, ImageDraw
 
-import demo as mod
+import web as mod
 
-size = (600, 600)
+size = (1500, 800)
 
-initial = [(44, 300), (556, 300)]
-depth = 9
+initial = [(750, 35), (750, 764)]
+depth = 6
 
 output = Image.new("HSV", size)
 doutput = ImageDraw.Draw(output)
