@@ -2,7 +2,7 @@
 
 from PIL import Image, ImageDraw
 
-import web as mod
+import leaf as mod
 
 size = (1500, 800)
 
